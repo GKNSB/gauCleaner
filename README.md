@@ -1,7 +1,5 @@
 ## gauCleaner
-Perform a cleanup on gau results
-
-Clean-up gau output file from duplicates. Helper script that only keeps valid results based on unique combinations of urls and parameters.
+Perform a cleanup on gau results. Clean-up gau output file from duplicates. Helper script that only keeps valid results based on unique combinations of urls and parameters.
 For instance:
 
 ```
