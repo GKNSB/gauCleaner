@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 import bisect
 from argparse import ArgumentParser, FileType
 from urllib.parse import urlparse, urljoin, unquote, unquote_plus
